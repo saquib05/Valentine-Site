@@ -1,8 +1,8 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/dev-verify-payment/route": "app/api/dev-verify-payment/route.js",
   "/create/page": "app/create/page.js",
   "/api/send-invitation/route": "app/api/send-invitation/route.js",
-  "/v/[slug]/page": "app/v/[slug]/page.js",
-  "/payment/[id]/page": "app/payment/[id]/page.js"
+  "/api/dev-verify-payment/route": "app/api/dev-verify-payment/route.js",
+  "/payment/[id]/page": "app/payment/[id]/page.js",
+  "/v/[slug]/page": "app/v/[slug]/page.js"
 }
